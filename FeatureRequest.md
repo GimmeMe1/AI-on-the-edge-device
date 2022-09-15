@@ -11,6 +11,10 @@
 
 ____
 
+#### #30 Log values in a separated logfile for easy readout after esp has been offline, format: date-time-value or similar
+
+* https://github.com/jomjol/AI-on-the-edge-device/discussions/969
+
 #### #29 Add favicon and use the hostname for the website
 
 * https://github.com/jomjol/AI-on-the-edge-device/issues/927
